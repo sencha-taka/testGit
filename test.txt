@@ -2,3 +2,4 @@ Git test
 Edit change
 test
 branch test
+branch test2
